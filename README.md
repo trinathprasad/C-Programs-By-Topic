@@ -1,6 +1,7 @@
 This folder contains C programs organized by topic for better understanding and focused learning. Each subfolder targets a specific concept with multiple practical examples. Ideal for beginners and intermediate learners looking to strengthen their C programming skills.
 
-📌 Topics Included:
+# Topics Included:
+
 Array – One-dimensional and multi-dimensional arrays, basic operations
 
 Conditional_Statement – if, if-else, nested if, switch-case examples
