@@ -1,0 +1,22 @@
+#include<stdio.h>
+int main()
+{
+  int n;
+  printf("Enter n value");
+  scanf("%d", &n);
+
+  if(n>0)
+  {
+    printf("+ve");
+  }
+  else if(n<0)
+  {
+    printf("-ve");
+  }
+  else
+{
+  printf("zero");
+}
+return 0;
+
+}

@@ -1,0 +1,17 @@
+#include<stdio.h>
+int main()
+{
+  int a=0;
+  switch(a++)
+  {
+    case 0: printf("Jhanvi kapoor");
+    switch(++a)
+    {
+      case 2: printf("Rashmika mandana");
+      default: printf("Pooja Hegde");
+
+    }
+    default: printf("shradda kapoor");
+  }
+  return 0;
+}/*Jhanvi kapoor /Rashmika mandana / Pooja Hegde/shradda kapoor*/
